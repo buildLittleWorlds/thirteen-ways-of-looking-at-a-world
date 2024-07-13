@@ -4,5 +4,6 @@
 
 ```mermaid
 graph TD
-  A[@icn-camera] --> B
+  A[I] --> B[bird]
+  A --> C[mountain]
 ```
