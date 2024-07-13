@@ -4,5 +4,5 @@
 
 ```mermaid
 graph TD
-  A --> B
+  A[@icn-camera] --> B
 ```
